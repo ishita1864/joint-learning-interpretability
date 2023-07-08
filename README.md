@@ -1,4 +1,6 @@
 # joint-learning-interpretability
+My paper titled "Interpretability of a Joint Learning Problem" based on this project was published in the International Research Conference on IoT, Cloud and Data Science held on April 28th-29th, 2023.
+
 This project focuses on identifying whether Twitter can be used as a reliable source during a natural calamity by utilizing the social graph as well as by understanding the text.
 Further, look into the interpretability of this model.
 
@@ -10,7 +12,7 @@ When a disaster occurs, there is an influx of information on Twitter. Humanitari
 
 In this paper, we build a system that helps crisis management authorities in providing timely aid to those in need, in times of a natural disaster. By jointly learning from the graph and textual data, we also look into the interpretability of this joint-learning scheme. Interpretability provides us with a solid justification for the results we obtain from machine learning models.
 
-For more details and results, please go through the slide deck present in this repository. 
+For more details and results, please go through the presentation slides present in this repository. 
 
 
 Motivation:
