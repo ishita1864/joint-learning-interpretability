@@ -10,6 +10,9 @@ When a disaster occurs, there is an influx of information on Twitter. Humanitari
 
 In this paper, we build a system that helps crisis management authorities in providing timely aid to those in need, in times of a natural disaster. By jointly learning from the graph and textual data, we also look into the interpretability of this joint-learning scheme. Interpretability provides us with a solid justification for the results we obtain from machine learning models.
 
+For more details and results, please go through the slide deck present in this repository. 
+
+
 Motivation:
 
 ![Screenshot 2023-07-08 at 1 04 07 AM](https://github.com/ishita1864/joint-learning-interpretability/assets/62196026/155109ea-9ffd-4a50-9378-b7505170f49e)
@@ -24,15 +27,19 @@ Textual Models:
 
 ![Screenshot 2023-07-08 at 1 12 38 AM](https://github.com/ishita1864/joint-learning-interpretability/assets/62196026/c2590a28-9c57-48c2-82c2-5ed8df4aac3f)
 
+Conversation Graph:
 
 ![Screenshot 2023-07-08 at 1 18 40 AM](https://github.com/ishita1864/joint-learning-interpretability/assets/62196026/c2cdf925-cea4-427a-8367-0f79d3acd116)
 
+Graph Model and Interpretability:
+![Screenshot 2023-07-08 at 10 11 24 AM](https://github.com/ishita1864/joint-learning-interpretability/assets/62196026/81b8a698-0153-4cc8-971b-bde4d13b1d5f)
 
 
+![Screenshot 2023-07-08 at 10 12 17 AM](https://github.com/ishita1864/joint-learning-interpretability/assets/62196026/d0723e97-95e4-495b-91fd-461cc47e2866)
 
 
-
-
+Joint Learning model:
+![Screenshot 2023-07-08 at 10 12 30 AM](https://github.com/ishita1864/joint-learning-interpretability/assets/62196026/7d93bd65-6474-4126-857f-beeae95d4e83)
 
 
 
